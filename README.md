@@ -11,7 +11,6 @@ You may access the Google Sheets version [here](https://dazetta.co/resources/ado
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | | Adobe Experience League |Adobe Experience League |   Adobe       |
-| [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | Sat Dec 31 2022 00:00:00 GMT+0000 (Greenwich Mean Time) | Adobe Experience League | Adobe Experience League | Adobe | 
 | [Fine-Tuning AI-Powered Personalization: New Features in Adobe Target](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/webinar-recording-10-11-22-10am-pt-fine-tuning-ai-powered/m-p/548982#M3267)  | 11-Oct-2022 | Webinar | Using AI for Personalisation | Adobe | 
 | [Personalization at Scale with new Filtering and Intelligence Enhancements](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/target-product-announcement-personalization-at-scale-with-new/m-p/548972#M3266)  | 28-Sep-2022 | Webinar | Using AI for Personalisation | Adobe | 
 | [Providing a More Personalized Customer Experience in Real-Time](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/webinar-recording-9-20-22-providing-a-more-personalized-customer/m-p/552503#M3271)  | 20-Sep-2022 | Webinar | Personalisation Strategies | Adobe | 
