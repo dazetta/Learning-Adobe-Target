@@ -11,6 +11,7 @@ You may access the Google Sheets version [here](https://dazetta.co/resources/ado
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | | Adobe Experience League |Adobe Experience League |   Adobe       |
+| [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | Sat Dec 31 2022 00:00:00 GMT+0000 (Greenwich Mean Time) | Adobe Experience League | Adobe Experience League | Adobe | 
 | [Adobe Target Profile Scripts Explained](https://albertacg.com/adobe-target-profile-scripts-explained/)   | 26-Jul-2022 | Blog |Profile Scripts |   [Matthew Ravlich](https://www.linkedin.com/in/mattravlich/)       |
 | [Zero to Hero: Starting and Scaling a Personalization Program](https://video.tv.adobe.com/v/344437)   | 28-June-2022 | Webinar | Personalisation Strategies |   Heather Adkins (City National Bank SVP) and Kaitlin White (Adobe)       |
 | [Uncover High-Impact Optimization Opportunities](https://video.tv.adobe.com/v/343983)   | 16-June-2022 | Webinar | Personalisation Strategies |   Drew Burns (Adobe)       |
