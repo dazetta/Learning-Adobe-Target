@@ -5,7 +5,7 @@ Adobe Target is one of a few incredible tools to enable CXO (Customer Experience
     
 As an attempt to make these webinars, articles and blogs easily accessible to all Adobe Target enthusiasts, I have started collating links to such material on this GitHub page. I hope this will prove helpful to colleagues new to Adobe Target as well as seasoned experts.  While this collection is in its infancy, would appreciate feedback and contribute to grow it further.
 
-You may access the Google Sheets version [here] (https://dazetta.co/resources/adobe-target-knowledge-repository/)
+You may access the Google Sheets version [here](https://dazetta.co/resources/adobe-target-knowledge-repository/)
 
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
