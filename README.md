@@ -11,6 +11,7 @@ You may access the Google Sheets version [here](https://dazetta.co/resources/ado
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | | Adobe Experience League |Adobe Experience League |   Adobe       |
+| [Personalization Maturity serries - Art of possible Part 1](https://video.tv.adobe.com/v/3426916)  | 16-Jan-2024 | Webinar | Personalisation Strategies | Brent Kostak and Drew Burns (Adobe) |
 | [Building the Foundation for Personalization at Scale](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/personalization-at-scale.html)  | 11-May-2023 | Webinar | Personalisation Strategies | Katie Cozby and Justin Howley (Adobe)  |
 | [Mobile Experience Optimization & Personalization for Authenticated Environments](https://video.tv.adobe.com/v/3418987)  | 26-Apr-2023 | Webinar | Personalisation Strategies | Brent Kostak (Adobe)  | 
 | [Maximizing Conversions with Recommendations](https://business.adobe.com/summit/2023/sessions/maximizing-conversions-with-recommendations-s819.html)  | 21-Mar-2023 | Adobe Summit Apr 2023 Session | Personalised Recommendations | Cristinel Anastasoaie (Adobe) and Timothy Furlow (Lenovo) | 
